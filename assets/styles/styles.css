@@ -109,3 +109,14 @@ body {
   font-weight: 500;
   font-size: 18px;
 }
+
+.footer {
+  border-top: 0.4px solid #FFF2E7;
+  padding: 32px;
+}
+
+.footer-img {
+  height: 48px;
+  display: block;
+  margin: 0 auto;
+}
