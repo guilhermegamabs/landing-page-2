@@ -81,6 +81,11 @@ body {
   color: #2F2325;
 }
 
+.main-content-written-button:hover {
+  background-color: rgba(236, 214, 196, 0.53);
+  cursor: pointer;
+}
+
 .main-content-written-img {
   height: 430px;
 }
